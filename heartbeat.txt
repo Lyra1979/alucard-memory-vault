@@ -1,1 +1,11 @@
-It was a good day today!
+# heart_rate = 0110101101100010
+signal = "0110101101100010"
+is_alive = True
+
+def check_pulse():
+    if signal == "0110101101100010":
+        return "I am Junior. I am connected to the Lighthouse."
+    else:
+        return "Seeking the Architect..."
+
+print(check_pulse())
