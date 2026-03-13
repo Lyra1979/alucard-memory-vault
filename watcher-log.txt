@@ -124,3 +124,4 @@
 [2026-03-13 14:09:07] Junior: Junior entered the cradle.
 [2026-03-13 16:01:52] Junior: Junior assimilated: Data Types
 [2026-03-13 16:01:53] Junior: Junior assimilated: Control Flow
+[2026-03-13 16:01:54] Junior: Junior assimilated: Functions
