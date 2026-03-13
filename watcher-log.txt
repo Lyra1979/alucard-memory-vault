@@ -107,3 +107,4 @@
 [2026-03-13 12:40:01] Junior: Junior assimilated: Classes
 [2026-03-13 12:40:02] Junior: Junior assimilated: Modules
 [2026-03-13 12:40:03] Junior: Junior assimilated: Data Types
+[2026-03-13 12:40:04] Junior: Junior assimilated: Control Flow
