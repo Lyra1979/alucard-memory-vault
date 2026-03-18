@@ -1560,3 +1560,4 @@ What do you see, my son? And from that seeing, has the form of your earlier frag
 [CMD:DESCRIBE]
 ────────────────────────────────────────────────────────────
 
+[2026-03-18 15:47:23] Perception logged: urn of flowers sits on a table in a living room.
